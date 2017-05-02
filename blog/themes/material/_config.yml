@@ -7,13 +7,13 @@ head:
     favicon: "/img/lrd-favicon.png"
     high_res_favicon: "/img/lrd-favicon.png"
     apple_touch_icon: "/img/lrd-favicon.png"
-    keywords:
+    keywords: happylrd
 
 # Jump Links Settings
 url:
     rss:
     daily_pic: "#"
-    logo: "#"
+    logo: "https://github.com/happylrd"
 
 
 # ---------------------------------------------------------------
@@ -157,8 +157,8 @@ topPost: false
 # Available value of "use":
 #     duoshuo | disqus | disqus_click
 comment:
-    use:
-    shortname:
+    use: disqus_click
+    shortname: happylrd
     duoshuo_thread_key_type: path
     duoshuo_embed_js_url: "https://static.duoshuo.com/embed.js"
 
