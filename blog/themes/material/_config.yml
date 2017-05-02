@@ -171,14 +171,14 @@ search:
 
 # Analytics Systems
 analytics:
-    baidu_id:
+    baidu_id: 99fc1ff9061cf19d54317c6d89e19391
     google_id:
 
 # Leancloud Views
 leancloud:
-    enable: false
-    app_id: #你的 app_id
-    app_key: #你的 app_key
+    enable: true
+    app_id: EzyLi1Olfr35nQO34eRMlRru-gzGzoHsz
+    app_key: 7iYuctGQdfOk4p7gjXxNTWBo
     av_core_mini: "https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"
 
 # Busuanzi 不蒜子 Views
