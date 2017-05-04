@@ -133,6 +133,10 @@ sidebar:
             link: "/tags"
             icon: cloud
             divider: false
+        画廊:
+            link: "/gallery"
+            icon: image
+            divider: false
         关于我:
             link: "/about"
             icon: person
