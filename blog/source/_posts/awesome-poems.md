@@ -9,7 +9,8 @@ categories:
 thumbnail: http://oj5if4v9b.bkt.clouddn.com/poetry.jpg
 ---
 
-> 笔落惊风雨，诗成泣鬼神。
+> 昔年有狂客，号尔谪仙人。笔落惊风雨，诗成泣鬼神。声名从此大，汩没一朝伸。文彩承殊渥，流传必绝伦。
+> <div style="text-align:right"><p>——《<cite>寄李十二白二十韵</cite>》</p></div>
 
 ## Todo List
 
