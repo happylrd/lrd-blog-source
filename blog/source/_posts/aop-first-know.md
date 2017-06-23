@@ -7,7 +7,7 @@ tags:
 - OOP
 categories:
 - 技术向
-thumbnail: http://lrd-blog-assets.oss-cn-shanghai.aliyuncs.com/image/aop_oop_better.png
+thumbnail: http://cdn.happylrd.com/image/aop_oop_better.png
 ---
 
 > 半亩方塘一鉴开，天光云影共徘徊。问渠哪得清如许？为有源头活水来。
@@ -36,7 +36,7 @@ DI（*Dependency Injection*，依赖注入） 有助于应用对象之间的解�
 
 一个被划分为模块的典型应用如下图，它直观地呈现了 横切关注点 的概念：
 
-![模块化的典型应用](http://lrd-blog-assets.oss-cn-shanghai.aliyuncs.com/image/aop_use.png)
+![模块化的典型应用](http://cdn.happylrd.com/image/aop_use.png)
 
 每个模块的核心功能都是为特定业务领域提供服务，但是这些模块都需要类似的辅助功能，例如安全和事务管理。
 
@@ -99,7 +99,7 @@ Spring 切面可以应用5种类型的通知：
 
 ### 总结
 
-![AOP概念关联](http://lrd-blog-assets.oss-cn-shanghai.aliyuncs.com/image/aop_concept_relation.png)
+![AOP概念关联](http://cdn.happylrd.com/image/aop_concept_relation.png)
 
 通知 包含了需要用于多个应用对象的横切行为；
 连接点 是程序执行过程中能够应用通知的所有点；

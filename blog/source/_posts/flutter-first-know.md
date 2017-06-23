@@ -9,7 +9,7 @@ tags:
 - Dart
 categories:
 - 技术向
-thumbnail: http://lrd-blog-assets.oss-cn-shanghai.aliyuncs.com/image/flutter-mark-square-100.png
+thumbnail: http://cdn.happylrd.com/image/flutter-mark-square-100.png
 ---
 
 > 春未老，风细柳斜斜。试上超然台上看，半壕春水一城花。烟雨暗千家。
@@ -71,7 +71,7 @@ Flutter 默认会向 google 发送报告，可以通过 `flutter config --no-ana
 
 在`Emulated Performance`下, 选择`Hardware - GLES 2.0`来确保启用硬件加速。
 
-![android_emulator_ha](http://lrd-blog-assets.oss-cn-shanghai.aliyuncs.com/image/android_emulator_ha.png)
+![android_emulator_ha](http://cdn.happylrd.com/image/android_emulator_ha.png)
 
 #### WebStorm
 
@@ -86,7 +86,7 @@ WebStorm(2017.1)已经内置了`Dart`插件，只需安装`Flutter`插件即可�
 进入`File->Settings->Languages & Frameworks->Flutter`，
 插件安装之后会自动配置`Flutter SDK path`为`${CURRENT_DIR}\flutter`，若没有，请自行更正。
 
-![plugin_flutter_idea](http://lrd-blog-assets.oss-cn-shanghai.aliyuncs.com/image/plugin_flutter_idea.png)
+![plugin_flutter_idea](http://cdn.happylrd.com/image/plugin_flutter_idea.png)
 
 至此，开发环境搭建完成，让我们开始愉快的Flutter编程之旅吧。
 
@@ -104,20 +104,20 @@ WebStorm(2017.1)已经内置了`Dart`插件，只需安装`Flutter`插件即可�
 
 创建成功后，我们启动Android模拟器，
 
-![idea_run_1](http://lrd-blog-assets.oss-cn-shanghai.aliyuncs.com/image/idea_run_1.png)
+![idea_run_1](http://cdn.happylrd.com/image/idea_run_1.png)
 
 通过IDE运行项目：
 
-![idea_run_2](http://lrd-blog-assets.oss-cn-shanghai.aliyuncs.com/image/idea_run_2.png)
+![idea_run_2](http://cdn.happylrd.com/image/idea_run_2.png)
 
 ### 执行结果
 
 结果如下：
 
-![flutter_first_app](http://lrd-blog-assets.oss-cn-shanghai.aliyuncs.com/image/flutter_first_app.png)
+![flutter_first_app](http://cdn.happylrd.com/image/flutter_first_app.png)
 
 此时访问 `http://127.0.0.1:8100/` 可以看到一个 *Observatory debugger and profiler*。
 
-![dart_vm_observatory](http://lrd-blog-assets.oss-cn-shanghai.aliyuncs.com/image/dart_vm_observatory.png)
+![dart_vm_observatory](http://cdn.happylrd.com/image/dart_vm_observatory.png)
 
 （完）

@@ -6,7 +6,7 @@ tags:
 - 古典文学
 categories:
 - 文学控
-thumbnail: http://oj5if4v9b.bkt.clouddn.com/poetry.jpg
+thumbnail: http://cdn.happylrd.com/image/poetry.png
 ---
 
 > 昔年有狂客，号尔谪仙人。笔落惊风雨，诗成泣鬼神。声名从此大，汩没一朝伸。文彩承殊渥，流传必绝伦。
