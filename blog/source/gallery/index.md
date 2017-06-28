@@ -1,5 +1,5 @@
 ---
-title: gallery
+title: 画廊
 date:
 layout: gallery
 ---
