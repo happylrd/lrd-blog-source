@@ -160,7 +160,7 @@ sidebar:
     categories:
         use: true
         icon: chrome_reader_mode
-        divider: false
+        divider: true
     pages:
         标签云:
             link: "/tags"
@@ -170,6 +170,10 @@ sidebar:
             link: "/gallery"
             icon: image
             divider: false
+        时间轴:
+            link: "/timeline"
+            icon: timeline
+            divider: true
         关于我:
             link: "/about"
             icon: person
