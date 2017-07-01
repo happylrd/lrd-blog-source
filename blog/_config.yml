@@ -75,4 +75,4 @@ deploy:
   type: git
   repo: https://github.com/happylrd/happylrd.github.io.git
   branch: master
-  message: Add an article about microservices
+  message: Change bg image
