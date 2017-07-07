@@ -75,4 +75,4 @@ deploy:
   type: git
   repo: https://github.com/happylrd/happylrd.github.io.git
   branch: master
-  message: Change bg image
+  message: Add an article about jwt and spring-security
