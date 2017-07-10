@@ -24,28 +24,30 @@ thumbnail: http://cdn.happylrd.com/image/gaoyue_1.jpeg
 
 ```viz
 graph youbo {
-     desktop_web -- API
-     mobile_web -- API
-     android_app -- API
-     cms -- API
-     API -- api_server
-     api_server -- image_server
-     api_server -- database
-     api_server -- cache
-     cache -- database
+     Desktop_Web -- API
+     Mobile_Web -- API
+     Android_APP -- API
+     CMS -- Internal_API
+     API -- API_Server
+     Internal_API -- API_Server
+     API_Server -- Image_Server
+     API_Server -- Cache
+     API_Server -- Database
+     Cache -- Database
 }
 ```
 
 ### 项目类别
 
 项目代号 | 类型 | 核心技术栈
------- | ---- | ---
-[Iris](https://github.com/happylrd/youbo-api)   | API Server | Spring
-[Seria](https://github.com/happylrd/youbo-desktop)  | Desktop&Mobile Web | Vue
-[kiri](https://github.com/happylrd/youbo-cms)   | CMS | React
+--- | --- | ---
+[Iris](https://github.com/happylrd/youbo-api)       | API Server  | Spring
+[Seria](https://github.com/happylrd/youbo-desktop)  | Desktop Web | Vue
+[Metis](https://github.com/happylrd/youbo-mobile)   | Mobile Web  | Vue
 [Daphne](https://github.com/happylrd/youbo-android) | Android APP | Android
+[kiri](https://github.com/happylrd/youbo-cms)       | CMS         | React
 
-**注意**：*Iris* 与 *Seria* 目前未开源...
+**注意**：*Iris*、*Seria* 和 *Metis* 目前未开源...
 
 ## 附录
 
